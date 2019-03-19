@@ -8,10 +8,10 @@ public class Age {
 		    int age=x.nextInt();
 		    
 		    if(age>18){
-		    	System.out.println("correct one");
+		    	System.out.println("eligible");
 		    }
 		    else{
-		    	System.out.println("incorrect one");
+		    	System.out.println("not eligible");
 		    }
 	
 		  }
